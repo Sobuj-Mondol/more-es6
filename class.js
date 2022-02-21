@@ -10,7 +10,7 @@ class Support {
         console.log(this.name, this.address, 'start a support session');
     }
 }
-
+//
 const sobuj = new Support('Sobuj', 'Bangladesh');
 const mondol = new Support('Mondol', 'Dubai');
 const akash = new Support('Akash', 'Maldip');
